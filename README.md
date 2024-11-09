@@ -14,10 +14,15 @@ The Robotic Arm Pick-and-Place Simulation project which is combining both RoboDK
    **Running the MATLAB Code**
    
 Clone this repository
+
 Open the RoboDK project files.
+
 Set up the robotic arm and station environment as described in the task.
+
 Run the simulation to visualize the pick-and-place operation.
+
 Run trajectory_planning.m to simulate the arm’s motion and generate kinematic analysis.
+
 
  **Top View**
  
