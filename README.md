@@ -12,17 +12,20 @@ The Robotic Arm Pick-and-Place Simulation project which is combining both RoboDK
 
  **Top View**
  
-<\n><img width="203" alt="image" src="https://github.com/user-attachments/assets/41cca158-1791-4987-8343-4d50e301d3a9">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/41cca158-1791-4987-8343-4d50e301d3a9">
 
 **Front View**
-<\n><img width="264" alt="image" src="https://github.com/user-attachments/assets/546d33fa-3a26-4665-b540-0df1b754bb04">
+
+<img width="264" alt="image" src="https://github.com/user-attachments/assets/546d33fa-3a26-4665-b540-0df1b754bb04">
 
 
 **Right View**
+
  <img width="348" alt="image" src="https://github.com/user-attachments/assets/ceea311a-80a4-40b7-81d0-393f1e0e85db">
 
 
 **Left View**
+
  <img width="372" alt="image" src="https://github.com/user-attachments/assets/ebf38565-67be-4304-a097-f911134e3efc">
 
 
@@ -37,6 +40,7 @@ The Robotic Arm Pick-and-Place Simulation project which is combining both RoboDK
 **End effector position**
 
 <img width="243" alt="image" src="https://github.com/user-attachments/assets/d013871f-9f5b-48a0-94d3-98785b7f360c">
+
 
 <img width="245" alt="image" src="https://github.com/user-attachments/assets/9f72cacf-a8ad-4e1f-8b1a-2efc1c676357">
 
