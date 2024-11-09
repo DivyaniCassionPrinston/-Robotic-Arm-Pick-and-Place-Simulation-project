@@ -6,9 +6,18 @@ The Robotic Arm Pick-and-Place Simulation project which is combining both RoboDK
 2. Moves the disk to Station 2 for labeling.
 3. Places the disk at Station 3 for transfer to another.
   
-   Tools Used:
+   **Tools Used:**
+   
    RoboDK: To simulate the robotic arm's motion.
    MATLAB: For trajectory planning, forward and inverse kinematics, and velocity profile generation.
+
+   **Running the MATLAB Code**
+   
+Clone this repository
+Open the RoboDK project files.
+Set up the robotic arm and station environment as described in the task.
+Run the simulation to visualize the pick-and-place operation.
+Run trajectory_planning.m to simulate the arm’s motion and generate kinematic analysis.
 
  **Top View**
  
