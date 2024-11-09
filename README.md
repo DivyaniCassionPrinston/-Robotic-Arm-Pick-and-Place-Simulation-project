@@ -12,10 +12,10 @@ The Robotic Arm Pick-and-Place Simulation project which is combining both RoboDK
 
  **Top View**
  
-   <img width="203" alt="image" src="https://github.com/user-attachments/assets/41cca158-1791-4987-8343-4d50e301d3a9">
+<\n><img width="203" alt="image" src="https://github.com/user-attachments/assets/41cca158-1791-4987-8343-4d50e301d3a9">
 
 **Front View**
-<img width="264" alt="image" src="https://github.com/user-attachments/assets/546d33fa-3a26-4665-b540-0df1b754bb04">
+<\n><img width="264" alt="image" src="https://github.com/user-attachments/assets/546d33fa-3a26-4665-b540-0df1b754bb04">
 
 
 **Right View**
